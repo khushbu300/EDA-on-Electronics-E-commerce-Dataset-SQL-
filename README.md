@@ -1,5 +1,5 @@
 - Exploratory Data Analysis on Electronics E-commerce Dataset (SQL)
-🔍 Project Overview
+-- 🔍 Project Overview
 
 This project performs end-to-end Exploratory Data Analysis (EDA) on an electronics e-commerce dataset using MySQL.
 The objective was to clean raw product data, engineer analytical features, and derive statistical insights related to pricing structure and customer engagement patterns.
