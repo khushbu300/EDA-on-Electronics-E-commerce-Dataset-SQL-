@@ -1,4 +1,5 @@
 # Exploratory Data Analysis on Electronics E-commerce Dataset (SQL)
+📦 Dataset: 500+ Products | 🛒 Domain: E-commerce | 🧠 Technique: SQL-based EDA
 
 ## 📊 Project Summary
 Performed end-to-end exploratory data analysis (EDA) on an electronics e-commerce dataset using SQL. Cleaned and transformed raw data, engineered analytical features, and applied statistical techniques to uncover insights on pricing, discounts, and customer engagement across 500+ products and 20+ categories.
@@ -54,16 +55,11 @@ Conducted segment-level grouped statistical summaries
 
 
 
-### 🚀 Skills Demonstrated
-Advanced SQL
-Window Functions
-Data Cleaning & Feature Engineering
-Statistical Thinking
+## 🚀 Skills Demonstrated
 
-Analytical Interpretation
-
-Structured Problem Solving
-
-Certain sub-categories demonstrate stronger alignment between engagement and ratings.
-
-Brand-level analysis reveals pricing consistency variations across segments.
+- Advanced SQL  
+- Window Functions  
+- Data Cleaning & Feature Engineering  
+- Statistical Thinking  
+- Analytical Interpretation  
+- Structured Problem Solving  
