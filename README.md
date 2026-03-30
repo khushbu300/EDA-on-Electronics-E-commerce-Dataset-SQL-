@@ -27,7 +27,7 @@ The objective was to clean raw product data, engineer analytical features, and d
 
 The dataset consists of 500+ electronics products across 20+ sub-categories, containing pricing, discount, rating, and review information.
 
-# Tools & Technologies
+## Tools & Technologies
 
 MySQL
 
@@ -39,14 +39,14 @@ Statistical Analysis (Covariance, Correlation, Regression)
 
 IQR-Based Outlier Detection
 
-# ⚙️ Key Steps Performed
-# 1️⃣ Data Ingestion
+## ⚙️ Key Steps Performed
+### 1️⃣ Data Ingestion
 
 Bulk-loaded dataset using LOAD DATA INFILE
 
 Performed schema validation and datatype normalization
 
-# 2️⃣ Data Cleaning & Feature Engineering
+### 2️⃣ Data Cleaning & Feature Engineering
 
 Cleaned and standardized price values (handled ranges using midpoint logic)
 
@@ -60,7 +60,7 @@ Derived brand names using string parsing
 
 Removed unnecessary columns and optimized schema
 
-# 3️⃣ Statistical & Analytical Techniques
+### 3️⃣ Statistical & Analytical Techniques
 
 Percentile analysis using PERCENT_RANK()
 
@@ -74,7 +74,7 @@ Conducted segment-level grouped statistical summaries
 
 
 
-# 🚀 Skills Demonstrated
+### 🚀 Skills Demonstrated
 
 Advanced SQL
 
